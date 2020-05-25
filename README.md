@@ -1,1 +1,1 @@
-/html&css/meguru.htmlを開くだけ
+/html&css/meguru.htmlを実行するだけ
